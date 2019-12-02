@@ -1,6 +1,6 @@
 # MySQL
 
-SQL Queries
+SQL Queries\
  	 CREATE USER - creates a new user when you create a new database \
     GRANT PRIVILEGES - allowing user to have full control of a specific database \
     CREATE DATABASE - to create a new database CREATE TABLE - used to create a new table \
